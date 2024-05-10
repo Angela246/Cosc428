@@ -1,2 +1,3 @@
 # Cosc428
-Cosc428 Study Notes
+Cosc428 University of Canterbury's (UC) study notes
+
